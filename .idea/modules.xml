@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientWS/ClientWS.iml" filepath="$PROJECT_DIR$/ClientWS/ClientWS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JEE.iml" filepath="$PROJECT_DIR$/.idea/JEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebService/WebService.iml" filepath="$PROJECT_DIR$/WebService/WebService.iml" />
+    </modules>
+  </component>
+</project>
