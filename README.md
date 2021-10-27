@@ -22,7 +22,7 @@ _In this repository you can find all the labs that we've done this semester_
 
 _Link: http://localhost:8686/BanqueWS?wsdl_
 
-![assets/wsdl.png](WebService/assets/wsdl.png)
+![assets/wsdl.png](assets/wsdl.png)
 
 
 
@@ -31,10 +31,10 @@ _Link: http://localhost:8686/BanqueWS?wsdl_
  _Testing conversion from Euro To DH_
 
 
-![assets/convertEuroToDH.png](WebService/assets/convertEuroToDH.png)
+![assets/convertEuroToDH.png](assets/convertEuroToDH.png)
 
 
 #### Create  a JAVA SOAP CLIENT
 
 
-![assets/testClientJava.png](WebService/assets/testClientJava.png)
+![assets/testClientJava.png](assets/testClientJava.png)
